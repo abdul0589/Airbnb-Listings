@@ -13,8 +13,8 @@ https://medium.com/@sheikabdul.abubakkar/boston-airbnb-listings-an-analysis-ceb3
 
 
 Libraries Used:
-Pandas
-Numpy
+Pandas,
+Numpy,
 Matplotlib
 
 Files:
