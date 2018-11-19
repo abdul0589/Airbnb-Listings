@@ -19,6 +19,7 @@ Matplotlib
 
 Files:
 Airbnb_Listings-Boston.py-A txt file with the necessary  code for the entire analysis.
+
 Airbnb_Listings-Boston.ipynb - A jupyter notebook file which will have text along with the code required for analysis at every stage.
 
 Analysis Summary:
